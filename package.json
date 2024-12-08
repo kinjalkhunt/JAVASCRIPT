@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.7.1",
+    "prompt-sync": "^4.2.0",
+    "random_num_gen_itstamil": "^1.0.2"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "2darray.js",
+  
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

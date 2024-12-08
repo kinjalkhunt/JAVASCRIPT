@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test package for random number",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamilvalavan",
+  "license": "ISC",
+  "dependencies": {
+    "random_num_gen_itstamil": "^1.0.0"
+  }
+}
